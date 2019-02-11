@@ -1,0 +1,22 @@
+
+------START-LICENSE-KEY------ 
+
+Registration_Name=zcxopps @ 163.com 
+
+Company=- 
+
+Category=Professional 
+
+Component=XML-Editor, XSLT-Debugger, Saxon-SA 
+
+Version=20 
+
+Number_of_Licenses=1 
+
+Date=02-09-2019 
+
+Trial=31 
+
+SGN=MCwCFGHF8A7kBN44TsOUXNQyy5yabICzAhRheYImD3a1ZD38h/+J9PW42FnV0g\=\= 
+
+-------END-LICENSE-KEY------- 
